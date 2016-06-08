@@ -27,9 +27,9 @@ import com.aoredon.tokens.shop.TShop;
  */
 public class Tokens extends JavaPlugin {
 	// The logo for the plugin.
-	public static final String LOGO = ChatColor.WHITE + "[" +
-										ChatColor.RED + "Tokens" +
-											ChatColor.WHITE + "]     ";
+	public static final String LOGO = ChatColor.WHITE + "[" + 
+						ChatColor.RED + "Tokens" +
+							ChatColor.WHITE + "]     ";
 	// How much a single token is worth in the server's currency.
 	public static final int TOKEN_WORTH = 100;
 	
