@@ -34,7 +34,7 @@ public class Utils {
 	 * must be online for this method to return the UUID.
 	 * 
 	 * @param name	the name of the player to get the unique identifier from
-	 * @return		the unique identifier of the player
+	 * @return	the unique identifier of the player
 	 */
 	public static UUID getUniqueIdFromName(String name) {
 		// Loops through each online player.
