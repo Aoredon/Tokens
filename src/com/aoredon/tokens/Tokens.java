@@ -114,6 +114,7 @@ public class Tokens extends JavaPlugin {
 
 	/**
 	 * Gets the token shop.
+	 * 
 	 * @return	the token shop
 	 */
 	public TShop getTShop() {
