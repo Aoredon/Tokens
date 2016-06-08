@@ -23,7 +23,7 @@ public class Utils {
 	 * 
 	 * @param min	the minimum possible number to generate
 	 * @param max	the maximum possible number to generate
-	 * @return		a random number between the minimum and maximum
+	 * @return	a random number between the minimum and maximum
 	 */
 	public static int randomNumber(int min, int max) {
 		return Utils.RANDOM_GENERATOR.nextInt(max) + min;
