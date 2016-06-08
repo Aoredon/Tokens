@@ -1,0 +1,16 @@
+name: Tokens
+main: com.aoredon.tokens.Tokens
+version: 1.2
+commands:
+  tbalance:
+    description: View how many tokens you currently have.
+    usage: /tbalance
+  tbuy:
+    description: Allows you to purchase tokens with server currency.
+    usage: /tbuy amount
+  tgive:
+    description: A command which creates tokens for the specified player.
+    usage: /tgive player amount
+  tshop:
+    description: Opens up the shop to allow you to purchase items.
+    usage: /tshop
